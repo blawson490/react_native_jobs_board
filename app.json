@@ -11,6 +11,25 @@
       "android",
       "web"
     ],
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "plugins": [
+      "expo-router"
+    ],
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "c558da8c-9943-4cbe-bcfc-29f41cbe1082"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/c558da8c-9943-4cbe-bcfc-29f41cbe1082"
+    },
+    "android": {},
+    "ios": {}
   }
 }
